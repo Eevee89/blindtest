@@ -9,7 +9,7 @@ The folder /bto_playlists contains playlists alreday created and ready to be use
 En vous connectant depuis un ordinateur, vous pouvez créer une partie.
 Vous arrivez alors sur un panneau de contrôle où vous pouvez :
 - Ajuster le temps pour deviner chaque musique,
-- Ajuster le temps entre chaque musique (vous passez manuellement les musiques, mais le bouton restera caché pendant X secondes)
+- Ajuster le nombre d'essais par joueur par musique,
 - Ajouter une musique (via le champ de texte en bas à droite) :
   - La musique doit être une url youtube commençant par ```https://www.youtube.com/watch``` ou ```https://youtube/``` (lien créé par le bouton 'Partager' de Youtube)
   - Lorsque vous validez, si la vidéo peut être utilisée, une tuile se créer alors. Cliquer dessus (le bord de la tuile devient rose) vous permettra :
@@ -48,7 +48,7 @@ Vous pouvez quitter la partie quand vous le souhaitez, mais votre score ne sera 
 Connecting from a desktop/laptop, you can create a room.
 You will land then on a dashboard, where you can :
 - Control the guess time,
-- Control the revealing time (you skip manually the musics, but the button will be hidden for X seconds)
+- Control the number of attempts per player per music,
 - Add a music (with the text input at the bottom right) :
   - The music must be an url begining by ```https://www.youtube.com/watch``` or ```https://youtube/``` (url created by the "Share" button of Youtube)
   - When you submit, if the video can be used, a tile will be created. By clicking on (the tile borders will become pink) you will be able to :
