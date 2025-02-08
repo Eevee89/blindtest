@@ -5,8 +5,7 @@ The folder /bto_playlists contains playlists alreday created and ready to be use
 
 # Règles du BlindTest Online
 
-## Depuis un ordinateur 🖥️
-En vous connectant depuis un ordinateur, vous pouvez créer une partie.
+## Créer une partie
 Vous arrivez alors sur un panneau de contrôle où vous pouvez :
 - Ajuster le temps pour deviner chaque musique,
 - Ajuster le nombre d'essais par joueur par musique,
@@ -29,8 +28,8 @@ Une réponse validée arrêtera le décompte et affichera directement la musique
 A la fin de la partie, les joueurs ne seront pas expulsés, ils pourront choisir une nouvelle couleur et vous pourrez uploader/créer un nouveau blindtest.</br>
 Ou fermer la partie en fermant l'onglet.</br>
 
-## Depuis un téléphone 📱
-En vous connectant depuis un téléphone, vous pourrez rejoindre une partie déjà créée par une personne depuis un ordinateur.</br>
+## Rejoindre une partie 📱
+Vous pouvez rejoindre une partie déjà créée par une personne depuis un ordinateur.</br>
 Renseignez le code la partie, choisissez votre couleur (2 joueurs peuvent avoir la même), et cliquez sur 'Prêt' quand vous vous sentez prêt.</br>
 Lordque la partie commence, un décompte s'affiche, ainsi qu'un bouton "Buzzer" et d'un champ de texte.
 - Le champ de texte sert à écrire votre réponse, si le maître du jeu le veut.
@@ -44,8 +43,7 @@ Vous pouvez quitter la partie quand vous le souhaitez, mais votre score ne sera 
 
 # Rules of BlindTest Online
 
-## From a desktop/laptop 🖥️
-Connecting from a desktop/laptop, you can create a room.
+## Create a room
 You will land then on a dashboard, where you can :
 - Control the guess time,
 - Control the number of attempts per player per music,
@@ -68,8 +66,8 @@ A valid answer will stop the timer and diplsay the music instantly.</br>
 At the end of the game, the players will not be forced to leave, they'll be able to choose another color and you'll be able to upload/create another test.</br>
 Or leave the game by close the tab.</br>
 
-## From a cellphone 📱
-Connecting from a phone, you'll be able to join a game created by another person on a laptop.</br>
+## Join a room
+You'll be able to join a game created by another person on a laptop.</br>
 Enter the game's code, choose your color (2 players can have the same), and click on "Ready" when you are.</br>
 When the game begins, a timer is been displayed, along with a "Buzzer" button and a text input.
 - The text input is here for you to write your answer, if the game master wants to.
@@ -79,3 +77,19 @@ When the game begins, a timer is been displayed, along with a "Buzzer" button an
 You can leave whenever you want, but your score will not be restored if you join the game again.
 
 ### Have a good game !
+
+
+# Jouer tout seul
+
+En utilisant les blinds tests déjà créer vous pourrez jouer tout seul contre vous-même.
+Tout d'abord, téléchargez le fichier du blind test que vous voulez.
+Pour se faire, il vous faudra ouvrir 3 onglets en tout (3 sor ordi, ou 3 sur téléphone, ou 2 sur ordi et 1 sur téléphone, ou 1 sur ordi et 2 sur téléphone)
+
+Dans un premier onglet, créez une partie. (On l'appellera onglet maître dans la suite)
+Ensuite cliquez sur l'oeil pour cacher la playlist (qui est pour l'instant vide).
+Une fois que l'icône est modifiée pour un oeil barré, cliquez sur le bouton pour importer une playlist, et sélectionnez le fichier du blind test voulu.
+Choisissez votre d'essais et le temps de reflexion par musique, comme dans une partie classique.
+
+Sur les 2 autres onglets, vous allez rejoindre la partie que vous venez de créer.
+L'un sera l'onglet que vous allez réellement utilisé pour jouer, l'autre ne sera qu'une sorte de robot inactif, destiné à remplir les effectifs, car 2 joueurs sont nécessaires.
+Un fois prêt sur les 2 onglets, vous devriez voir apparaître le bouton "Commencer" sur l'onglet maître.
